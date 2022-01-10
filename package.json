@@ -1,0 +1,19 @@
+{
+  "name": "mongo-auth",
+  "version": "1.0.0",
+  "description": "mongo-auth testing repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkeane889/node-mongo-auth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkeane889/node-mongo-auth/issues"
+  },
+  "homepage": "https://github.com/jkeane889/node-mongo-auth#readme"
+}
